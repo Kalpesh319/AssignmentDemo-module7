@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" >
+<test name="kalpesh">
+<parameter name="username" value="9420102292"/>
+<parameter name="password" value="17111997"/>
+<classes>
+<class name="demo.Q17facebook_Demo"/>
+</classes>
+</test>
+
+<test name="Bt">
+<parameter name="username" value="9420102292"/>
+<parameter name="password" value="17111997"/>
+<classes>
+<class name="demo.Q17facebook_Demo"/>
+</classes>
+</test>
+</suite>
