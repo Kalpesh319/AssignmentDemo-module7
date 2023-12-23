@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Assignment_module7.Q13_Junit_Assert_Classdemo"/>
+      <class name="com.Assignment_module7.Q14_loginFacebook"/>
+      <class name="com.Assignment_module7.Q17_login_facebook_testNg"/>
+      <class name="com.Assignment_module7.Q16_Parameterized_facebook_login"/>
+      <class name="com.Assignment_module7.Q15_EmailLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
